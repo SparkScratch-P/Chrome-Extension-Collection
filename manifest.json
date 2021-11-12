@@ -6,7 +6,7 @@
   "version": "1.0",
 
   "browser_action": {
-   "default_icon": "https://uploads.scratch.mit.edu/users/avatars/15883188.png",
+   "default_icon": "15883188.png",
    "default_popup": "popup.html"
   },
   "permissions": [
