@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Scratch 3 Embed Generator",
+  "description": "An embed generator where u can customize Size, border, transparency, and source(Scratch or Turbowrap). The outputs are HTML embed code, image URL, and cloud monitor URL in Scratch.",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "embedericon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
