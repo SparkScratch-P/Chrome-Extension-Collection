@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "SparkScratch-P",
+  "description": "Stay up-to-date with SparkScratch-P's Web Home!",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "download.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
